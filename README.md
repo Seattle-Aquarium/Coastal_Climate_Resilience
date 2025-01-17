@@ -1,4 +1,4 @@
-# Seattle_Aquarium_Coastal_Climate_Resilience
+# Coastal Climate Resilience at the Seattle Aquarium 
 
 ## Overview 
 This is a public repository to organize information and resources pertaining to the Seattle Aquarium's **Coastal Climate Resilience** (CCR) program. 
