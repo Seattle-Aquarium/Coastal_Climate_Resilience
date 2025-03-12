@@ -24,14 +24,25 @@ The purpose of this repo is to make general and introductory information about t
 All information and documentation associated with the repo is freely available to download and share. 
 We welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
 
-## Other CCR GitHub repositories 
+## CCR GitHub repositories 
 
-<table>
-<tr> <td> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_analytical_resources"> <b> Seattle_Aquarium_CCR_analytical_resources </b> </a> </td> <td> A hub for code and other analytical resources associated with our CCR program </td> </tr> 
-<tr> <td> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development"> <b> Seattle_Aquarium_CCR_development </b> </a> </td> <td> Standalone 1-page project descriptions that someone with specialized skills could advance </td> </tr> 
-<tr> <td> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_benthic_taxa_simulation"> <b> Seattle_Aquarium_CCR_benthic_taxa_simulation </b> </a> </td> <td> All code necessary to simulate ROV-derived data for analytical development </td> </tr> 
-</table>
+```mermaid
 
+graph TD
+
+A["<a href='https://github.com/Seattle-Aquarium/Coastal_Climate_Resilience' target='_blank' style='font-size: 16px; font-weight: bold;'>Coastal_Climate_Resilience</a><br><font color='darkgray' style='text-decoration: none;'>(this page) the main landing pad for the CCR research program</font>"]
+
+A --> B["<a href='https://github.com/Seattle-Aquarium/CCR_analytical_resources' target='_blank' style='font-size: 16px; font-weight: bold;'>CCR_analytical_resources</a><br><font color='darkgray' style='text-decoration: none;'>contains code, analytical tools, and data</font>"]
+
+A --> C["<a href='https://github.com/Seattle-Aquarium/CCR_benthic_analyses' target='_blank' style='font-size: 16px; font-weight: bold;'>CCR_benthic_analyses</a><br><font color='darkgray' style='text-decoration: none;'>code to analyze ROV survey data</font>"]
+
+A --> D["<a href='https://github.com/Seattle-Aquarium/CCR_development' target='_blank' style='font-size: 16px; font-weight: bold;'>CCR_development</a><br><font color='darkgray' style='text-decoration: none;'>repo for active software projects and Issues</font>"]
+
+A --> E["<a href='https://github.com/Seattle-Aquarium/CCR_benthic_taxa_simulation' target='_blank' style='font-size: 16px; font-weight: bold;'>CCR_benthic_taxa_simulation</a><br><font color='darkgray' style='text-decoration: none;'>code to simulate ROV survey data</font>"]
+
+style A stroke:#00B2EE,stroke-width:4px
+
+```
 ## ROV videos, photos from deployments, and hardware/software 
 * To view an example of ROV survey imagery, see [this folder](https://www.dropbox.com/scl/fo/c6bw7jn0akgdu0wrshwnm/AM96nKZ9ApqJCPLfCwaqYsE?rlkey=0boyf0f0r2vc469rdopfycejr&st=sue5tt55&dl=0) with imagery from offshore of Centennial Park, Seattle 
 * To view videos from the ROV, see the _ROV_video_vignettes_ document ([here](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/ROV_videos.md))
