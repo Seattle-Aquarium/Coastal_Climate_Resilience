@@ -1,7 +1,7 @@
 # Coastal Climate Resilience at the Seattle Aquarium 
 
 ## Overview 
-This is a public repository to organize information and resources pertaining to the Seattle Aquarium's **Coastal Climate Resilience** (CCR) program. 
+This is a public repository to organize information and resources regarding the Seattle Aquarium's **Coastal Climate Resilience** (CCR) program. 
 Specifically, we have developed and implemented standardized methods to use small remotely operated vehicles (ROVs) to conduct video/photo surveys along relatively shallow coastal areas (5-40m depth), especially along canopy-forming and understory kelp forest locations. 
 We envision fully integrating ROVs as another tool in the coastal ecologists' toolkit that can (among other missions) complement and enhance existing long-term subtidal monitoring programs. 
 
@@ -23,6 +23,17 @@ We envision fully integrating ROVs as another tool in the coastal ecologists' to
 The purpose of this repo is to make general and introductory information about the CCR program accessible to our partners, collaborators, and the public. 
 All information and documentation associated with the repo is freely available to download and share. 
 We welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
+
+<p float="center">
+  <img src="photos/2024_1.jpg" width="400" height="350" />
+  <img src="photos/2024_2.jpg" width="400" height="350" />
+ </p>
+ 
+ 
+ <p float="center">
+  <img src="photos/2024_4.jpg" width="400" height="350" />
+  <img src="photos/site_1.jpg" width="400" height="350" /> 
+</p>
 
 ## CCR GitHub repositories 
 
@@ -69,28 +80,3 @@ style A stroke:#00B2EE,stroke-width:4px
 ## Funding proposals
 * To read a proposal funded by the North Pacific Coast Marine Resources Committee, see _North_Pacific_Coast_MRC_proposal_ document ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/North_Pacific_Coast_MRC_proposal/ROV_pilotStudy_NPC-MRC_proposal%2021-23.pdf)) 
 * To read a proposal funded by Sea Otter Foundation and Trust, see the _SOFT_2022_SeattleAquarium_proposal_ document ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/SOFT_2022_SeattleAquarium_proposal.pdf))
-
-<p float="center">
-  <img src="photos/img_1.jpg" width="400" height="300" />
-  <img src="photos/img_2.jpg" width="400" height="300" />
- </p>
- 
- 
- <p float="center">
-  <img src="photos/img_3.jpg" width="400" height="300" />
-  <img src="photos/img_4.jpg" width="400" height="300" /> 
-</p>
-
-
- <p float="center">
-  <img src="photos/img_5.jpg" width="400" height="300" />
-  <img src="photos/img_6.jpg" width="400" height="300"/> 
-</p>
-
-
- <p float="center">
-  <img src="photos/img_7.jpg" width="400" height="300" />
-  <img src="photos/img_8.jpg" width="400" height="300"/> 
-</p>
-
-
