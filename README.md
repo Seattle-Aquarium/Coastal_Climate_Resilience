@@ -60,6 +60,7 @@ style A stroke:#00B2EE,stroke-width:4px
 * To view all hardware and software associated with this project, see the _hardware_software_ document ([here](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/hardware_software.md))
 
 ## Public facing
+* To view an Earth Day at the Seattle Aquarium with Xbox livestream, see [this link](https://www.twitch.tv/videos/2438923866)
 * To view a August 2024 guest lecture at the Applied Physics Lab (APL), see [this link](https://www.youtube.com/watch?v=w-YeXgaE_F0)
 * To view a Seattle Channel video detailing our partnership with Port of Seattle, see [this link](https://www.youtube.com/watch?app=desktop&v=WdsnsdwxIYs)
 * To read a Seattle Times article about our partnership with the Port of Seattle, see [this link](https://www.seattletimes.com/sponsored/seattle-partnership-dives-into-the-mysteries-of-elliott-bays-bull-kelp/)
@@ -72,6 +73,7 @@ style A stroke:#00B2EE,stroke-width:4px
 * To read an article in the Wahkiakum County Eagle about our ROV outreach and engagement, see [this link](https://www.waheagle.com/story/2022/12/08/wahkiakum-people/seattle-aquarium-gives-career-talk-and-demo-at-town-pool/21681.html)
 
 ## Synopses
+* To read the 2024 year-end report to the Port of Seattle, download the pdf found at [this link](https://www.dropbox.com/scl/fi/ve6ltn17ftkkub9pn5j1l/2024_YearEnd_Report_Urban-Kelp-Research-Project.pdf?rlkey=q05fyjaa1qtsep7znxzd6chy5&dl=0)
 * To read the 2023 year-end report to the Port of Seattle, download the pdf found at [this link](https://www.dropbox.com/scl/fi/r9h8rwams3n2h39q5hpib/2023_YearEnd_Report_Urban-Kelp-Research-Project.pdf?rlkey=35ua56ufnezqcyuomed3wgnep&dl=0)
 * To read a mid-year, July 2023 report to the Port of Seattle, download the pdf found at [this link](https://www.dropbox.com/scl/fi/jymeod2kwqhwbgq47lfhm/MidYear_PortReport_2023.pdf?rlkey=k64u9y5tuh62bwdg82b4ib299&dl=0)
 * To read our 2022 year-end report to the Port of Seattle, download the pdf found at [this link](https://www.dropbox.com/scl/fi/dn9cxx2oxomhcs9weaacl/2022_YearEnd_PortReport.pdf?rlkey=ejarsnwtf20mwbphhestvzn3z&dl=0)
